@@ -1582,7 +1582,7 @@ label.error{
 
 
 .main-portfolio{
-  background: url(../img/bg/bg-portfolio.jpg) 50% 50% no-repeat;
+  background: url(../img/gal.png) 50% 50% no-repeat;
   background-size:cover;
 }
 
@@ -1935,7 +1935,7 @@ img.mfp-img{
 
 
 .main-services{
-  background:url(../img/bg/bg-services.jpg);
+  background:url(../img/adm.png);
   background-size:cover;
 }
 
@@ -1948,7 +1948,7 @@ img.mfp-img{
 
 
 .main-blog{
-  background:url(../img/bg/bg-blog.jpg) 50% 50% no-repeat;
+  background:url(../img/new.png) 50% 50% no-repeat;
   background-size:cover;
 }
 
