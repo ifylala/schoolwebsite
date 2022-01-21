@@ -716,7 +716,7 @@ label.error{
 }
 
 .bg-primary{
-  background: #425cbb;
+  background: #409cd5;
 }
 
 .bg-black{
@@ -2478,7 +2478,7 @@ img.mfp-img{
 
 .promo{
   text-align: center;
-  background: url(../img/bg/promo.jpg) fixed 50% 0;
+  background: url(../img/teacher.png) fixed 50% 0;
   background-size: cover; 
 }
 
