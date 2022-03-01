@@ -4,7 +4,7 @@ $email = $_POST["email"];
 $message = $_POST["message"];
 
 
-$EmailTo = "admissions@kingseedhigh.ng";
+$EmailTo = "admissions@kingseedhighschool.org";
 $Subject = "New Message Received";
 
 // prepare email body text
